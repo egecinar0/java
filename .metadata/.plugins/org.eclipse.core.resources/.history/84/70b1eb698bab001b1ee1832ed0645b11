@@ -1,0 +1,31 @@
+
+public class Campaign {
+		String companyName;
+		String campaignName;
+		double campaignRate;
+		public Campaign(String companyName, String campaignName, double campaignRate) {
+			super();
+			this.companyName = companyName;
+			this.campaignName = campaignName;
+			this.campaignRate = campaignRate;
+		}
+		public String getCompanyName() {
+			return companyName;
+		}
+		public void setCompanyName(String companyName) {
+			this.companyName = companyName;
+		}
+		public String getCampaignName() {
+			return campaignName;
+		}
+		public void setCampaignName(String campaignName) {
+			this.campaignName = campaignName;
+		}
+		public double getCampaignRate() {
+			return campaignRate;
+		}
+		public void setCampaignRate(double campaignRate) {
+			this.campaignRate = campaignRate;
+		}
+		
+}

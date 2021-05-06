@@ -1,0 +1,6 @@
+
+public interface GamerService {
+		public void add();
+		public void delete();
+		public void update();
+}

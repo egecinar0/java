@@ -1,0 +1,16 @@
+
+public class GameManager {
+	public void add(Game game) {
+		Gamer gamer = new Gamer();
+		Game gamee = new Game();
+		System.out.println(game.getGameName()+" adlý oyun eklendi - "+ gamee.getAfterDiscountPrice()+" TL.");
+		gamer.id = gamee.getGameId();
+		
+		}
+	public void remove(Game game) {
+		System.out.println(game.getGameName()+" adlý oyun silinmiþtir.");
+	}
+	public void update(Game game) {
+		System.out.println(game.getGameName()+" adlý oyun güncellendi.");
+	}
+}

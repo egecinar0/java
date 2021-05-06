@@ -1,0 +1,7 @@
+
+public class Campaign {
+		String companyName;
+		String campaignName;
+		String campaignRate;
+		
+}

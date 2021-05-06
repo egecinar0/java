@@ -1,0 +1,6 @@
+
+public class Game {
+		String gameName;
+		double gamePrice;
+		double 
+}

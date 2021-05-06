@@ -1,0 +1,24 @@
+package intro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		String internetSubeButonu = "Ýnternet Þubesi";  //metin deðeri verir
+		double dolarBugun = 8.20;
+		
+		double dolarDun = 8.20; 				//ondalýklý deðer verir
+		
+		int vade = 36;                          // tam sayý deðeri verir
+		
+		boolean dolarDustuMu = false;    	    //evet hayýr deðeri verir
+				
+	    System.out.print(internetSubeButonu);   //verilen metni ekrana yazdýrýr
+		
+	    if (dolarBugun<dolarDun) {
+			System.out.println("Dolar Dustu Resmi");
+		}
+
+	}
+
+}

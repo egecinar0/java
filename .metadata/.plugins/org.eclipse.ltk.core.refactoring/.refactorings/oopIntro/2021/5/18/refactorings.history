@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;oopIntro.Product.id&apos; in &apos;oopIntro.Product&apos;&#x0D;&#x0A;- Original project: &apos;oopIntro&apos;&#x0D;&#x0A;- Original element: &apos;oopIntro.Product.id&apos;&#x0D;&#x0A;- Getter method name: &apos;getId&apos;&#x0D;&#x0A;- Setter method name: &apos;setId&apos;&#x0D;&#x0A;- Field visibility: &apos;(package)&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;id&apos;" flags="589830" getter="getId" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;oopIntro{Product.java[Product^id" insertion="0" setter="setId" stamp="1619875148194" version="1.0" visibility="0"/>
+</session>

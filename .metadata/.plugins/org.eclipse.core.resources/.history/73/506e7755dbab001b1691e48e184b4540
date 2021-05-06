@@ -1,0 +1,11 @@
+
+public class Main {
+		Gamer gamer = new Gamer("12345678901","Ege","Çınar","4.4.2007", 101);
+		Campaign campaign = new Campaign("Süper Şirket","Süper İndirim",1.20);
+		
+		
+		GamerManager gamerManager = new GamerManager();
+		CampaignManager campaignManager = new CampaignManager();
+		
+		
+}

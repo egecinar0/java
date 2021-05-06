@@ -1,0 +1,13 @@
+
+public class CampaignManager {
+	
+	public void add(Campaign campaign) {
+		System.out.println(campaign.getCampaignName()+" adlý kullanýcý eklendi");
+	}
+	public void remove(Campaign campaign) {
+		System.out.println(campaign.getCampaignName()+" adlý kullanýcý silindi");
+	}
+	public void update(Campaign campaign) {
+		System.out.println(campaign.getCampaignName()+" adlý kullanýcý güncellendi");
+	}
+}
